@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Parkway Consulting</title>
+	<atom:link href="https://parkwayconsulting.co.uk/feed/" rel="self" type="application/rss+xml" />
+	<link>https://parkwayconsulting.co.uk/</link>
+	<description>Financial Planning, Created Just For You</description>
+	<lastBuildDate>Wed, 21 Aug 2024 12:09:13 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://parkwayconsulting.co.uk/wp-content/uploads/2023/12/cropped-parkway_favicon-32x32.png</url>
+	<title>Parkway Consulting</title>
+	<link>https://parkwayconsulting.co.uk/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk (Page is feed) 
+Database Caching 1/76 queries in 0.155 seconds using Disk (Request-wide modification query)
+
+Served from: parkwayconsulting.co.uk @ 2024-09-26 10:57:10 by W3 Total Cache
+-->
